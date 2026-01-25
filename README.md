@@ -15,7 +15,7 @@ I'm a MERN Stack developer<br>I'm currently looking for collaboration with Start
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Itssunil01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+###  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
